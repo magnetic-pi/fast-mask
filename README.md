@@ -17,7 +17,9 @@ This project is dedicated to [Dr. Usama Riaz](https://old.reddit.com/r/HumansBei
 4. Easy sterilization.
 5. Reusability.
 6. Parts must be easily acquirable globally.
-7. Provide a consistent seal between the filter and filter holder.
+7. Provide a consistent seal between the filter and filter holder.<br />
+
+    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step16.jpg" height="140" width="280">
 
 #### Parts to Purchase
 The F.A.S.T Mask is built around the following products:
@@ -38,7 +40,7 @@ The following parts for printing can be found in the [stl-files/universal-filter
 5. Connector Block Peg. (Print 1)
 
 #### Universal Filter Holder
-The universal-filter holder assumes that supplies are critically low. This assumes that cutting existing filters in half is the only option to offer some protection and doubles supply. The filter holder piece has a smaller hole which is specifically designed to allow for a smaller filter piece. It was tested with N95 and P95 masks cut in half.
+The universal-filter holder assumes that supplies are critically low and requires filter augmentation. Cutting existing filters in half is the only option to offer some protection users protections in desperate times. The filter holder piece has a hole which is specifically designed to allow for a smaller filter piece. It was tested with N95 and P95 masks cut in half.
 
 #### Construction
 The build steps can be found in: [stl-files/INSTRUCTIONS.md](https://github.com/magnetic-pi/fast-mask/blob/master/stl-files/INSTRUCTIONS.md).
