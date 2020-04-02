@@ -18,11 +18,7 @@ This project is dedicated to [Dr. Usama Riaz](https://old.reddit.com/r/HumansBei
 5. Reusability.
 6. Parts must be easily acquirable globally.
 7. Provide a consistent seal between the filter and filter holder. 
-
-<br />
-
-    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step16.jpg" height="140" width="280">
-
+    
 #### Parts to Purchase
 The F.A.S.T Mask is built around the following products:
 
