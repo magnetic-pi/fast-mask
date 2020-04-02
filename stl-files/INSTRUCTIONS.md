@@ -39,7 +39,7 @@ These directions assume that filter (N95, P95, PM2.5) masks will need to be alte
 6. Attach the filter holder pieces to the filter bottom.
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step6.jpg" height="140" width="280">
     
-7. Place filter between the on top, making sure to completely cover the opening below it.
+7. Place filter on top of the first filter holder, making sure to completely cover the opening below it.
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step7.jpeg" height="140" width="280">
     
 8. Attach the second filter holder piece on top.
