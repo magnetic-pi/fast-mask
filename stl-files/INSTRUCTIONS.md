@@ -40,28 +40,28 @@ These directions assume that filter (N95, P95, PM2.5) masks will need to be alte
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step6.jpg" height="140" width="280">
     
 7. Place filter between the on top, making sure to completely cover the opening below it.
-    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step7.jpg" height="140" width="280">
+    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step7.jpeg" height="140" width="280">
     
 8. Attach the second filter holder piece on top.
-    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step8.jpg" height="140" width="280">
+    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/stepa8.jpg" height="140" width="280">
     
 9. Insert the filter holder pins into the four round pegs in the corner.
-    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step9.jpg" height="140" width="280">
+    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/stepa9.jpg" height="140" width="280">
 
 10. Place filter side clamps on the sides of the filter to ensure that the filter holders are holding the filters tightly.
-    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step10.jpg" height="140" width="280">
+    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/stepa10.jpg" height="140" width="280">
 
 11. Attach the filter bottom to the snorkel tube using the provided slots.
-    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step11.jpg" height="140" width="280">
+    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/stepa11.jpg" height="140" width="280">
     
 12. Place connector block plug on the front of the filter connecting it to the snorkel tube.
-    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step12.jpg" height="140" width="280">
+    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/stepa12.jpg" height="140" width="280">
     
 13. Attach the snorkel tube to the snorkel mask.
-    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step13.jpg" height="140" width="280">
+    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/stepa13.jpg" height="140" width="280">
 
 14. FIN!
-    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step14.jpg" height="140" width="280">
-    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step15.jpg" height="140" width="280">
-    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step16.jpg" height="140" width="280">
-    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step17.jpg" height="140" width="280">
+    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/stepa14.jpg" height="140" width="280">
+    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/stepa15.jpg" height="140" width="280">
+    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/stepa16.jpg" height="140" width="280">
+    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/stepa17.jpg" height="140" width="280">
