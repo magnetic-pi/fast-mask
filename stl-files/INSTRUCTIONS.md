@@ -60,8 +60,8 @@ These directions assume that filter (N95, P95, PM2.5) masks will need to be alte
 13. Attach the snorkel tube to the snorkel mask.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step13.jpg" height="140" width="280">
 
-14. FIN!<br />
+14. Complete!<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step14.jpg" height="140" width="280">
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step15.jpg" height="140" width="280">
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step16.jpg" height="140" width="280">
-    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step17.jpg" height="140" width="280">
+   
