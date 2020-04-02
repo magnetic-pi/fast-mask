@@ -58,7 +58,7 @@ These directions assume that filter (N95, P95, PM2.5) masks will need to be alte
 12. Place connector block peg in the front of the filter, connecting the filter botom to the snorkel tube.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step12.jpg" height="140" width="280">
     
-13. Attach the snorkel tube to the snorkel mask.<br />
+13. Affix the F.A.S.T attachment to the snorkel tube holder on snorkel mask until it clicks into palce.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step13.jpg" height="140" width="280">
 
 14. Complete!<br />
