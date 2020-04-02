@@ -29,19 +29,19 @@ The F.A.S.T Mask is built around the following products:
 If requested, adapter parts will be provided for other masks.
 
 #### Parts to Print
-The following parts for printing can be found in the `stl-files/universal-filter-mask-stl-files/` directory:
+The following parts for printing can be found in the [stl-files/universal-filter-mask-stl-files/](https://github.com/magnetic-pi/fast-mask/tree/master/stl-files/universal-filter-mask-stl-files) directory:
 
-1. Modified Snorkel tube attachment.
-2. Filter Holders. (2)
-3. Bottom Filter Holder.
-4. Connector Pegs. (4)
-5. Connector Block Peg. (1)
+1. Modified Snorkel tube attachment. (Print 1)
+2. Filter Holders. (Print 2)
+3. Bottom Filter Holder. (Print 1)
+4. Connector Pegs. (Print 2)
+5. Connector Block Peg. (Print 1)
 
 #### Universal Filter Holder
 The universal-filter holder assumes that supplies are critically low. This assumes that cutting existing filters in half is the only option to offer some protection and doubles supply. The filter holder piece has a smaller hole which is specifically designed to allow for a smaller filter piece. It was tested with N95 and P95 masks cut in half.
 
 #### Construction
-The build steps can be found in: `stl-files/INSTRUCTIONS.md`
+The build steps can be found in: [stl-files/INSTRUCTIONS.md](https://github.com/magnetic-pi/fast-mask/blob/master/stl-files/INSTRUCTIONS.md).
 
 #### Licensing
 The F.A.S.T components are free and open source to ensure the interoperability of F.A.S.T with various mask vendors, and to encourage rapid development by others.
