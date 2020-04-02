@@ -40,9 +40,6 @@ The following parts for printing can be found in the [stl-files/universal-filter
 4. Connector Pegs. (Print 2)
 5. Connector Block Peg. (Print 1)
 
-#### Universal Filter Holder
-The universal-filter holder assumes that supplies are critically low and requires filter augmentation. Cutting existing filters in half is the only option to offer some protection users protections in desperate times. The filter holder piece has a hole which is specifically designed to allow for a smaller filter piece. It was tested with N95 and P95 masks cut in half.
-
 #### Construction
 The build steps can be found in: [stl-files/INSTRUCTIONS.md](https://github.com/magnetic-pi/fast-mask/blob/master/stl-files/INSTRUCTIONS.md).
 
