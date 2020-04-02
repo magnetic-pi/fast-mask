@@ -34,7 +34,7 @@ These directions assume that filter (N95, P95, PM2.5) masks will need to be alte
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step4-2.jpg" height="140" width="280">
 
 5. Lay out the F.A.S.T parts.
-   <<img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step5.jpg" height="140" width="280">
+   <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step5.jpg" height="140" width="280">
 
 6. Attach the filter holder pieces to the filter bottom.
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step6.jpg" height="140" width="280">
