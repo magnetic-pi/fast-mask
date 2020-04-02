@@ -45,7 +45,7 @@ These directions assume that filter (N95, P95, PM2.5) masks will need to be alte
 8. Attach the second filter holder piece on top.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step8.jpg" height="140" width="280">
     
-9. Insert the filter holder pins into the four round pegs in the corner.<br />
+9. Insert the filter holder pins into the four round pegs in the corners.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step9.jpg" height="140" width="280">
 
 10. Place filter side clamps on the sides of the filter to ensure that the filter holders are holding the filters tightly.<br />
@@ -54,7 +54,7 @@ These directions assume that filter (N95, P95, PM2.5) masks will need to be alte
 11. Attach the filter bottom to the snorkel tube using the provided slots.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step11.jpg" height="140" width="280">
     
-12. Place connector block plug on the front of the filter connecting it to the snorkel tube.<br />
+12. Place connector block peg in the front of the filter, connecting the filter botom to the snorkel tube.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step12.jpg" height="140" width="280">
     
 13. Attach the snorkel tube to the snorkel mask.<br />
