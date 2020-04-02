@@ -20,47 +20,47 @@ These directions assume that filter (N95, P95, PM2.5) masks will need to be alte
 
 
 ### Build Steps
-1. Grab a N95 mask.
+1. Grab a N95 mask. <br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step1.jpg" height="140" width="280">
 
-2. Remove any straps on the outside of the mask.
+2. Remove any straps on the outside of the mask.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step2.jpg" height="140" width="280">
     
-3. Cut the mask in half.
+3. Cut the mask in half.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step3.jpg" height="140" width="280">
     
-4. Cut off the two ends so that the mask fits in the filter holder ensuring the hole is covered correctly.
+4. Cut off the two ends so that the mask fits in the filter holder ensuring the hole is covered correctly.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step4-1.jpg" height="140" width="280">
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step4-2.jpg" height="140" width="280">
 
-5. Lay out the F.A.S.T parts.
+5. Lay out the F.A.S.T parts.<br />
    <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step5.jpg" height="140" width="280">
 
-6. Attach the filter holder pieces to the filter bottom.
+6. Attach the filter holder pieces to the filter bottom.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step6.jpg" height="140" width="280">
     
-7. Place filter on top of the first filter holder, making sure to completely cover the opening below it.
+7. Place filter on top of the first filter holder, making sure to completely cover the opening below it.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step7.jpeg" height="140" width="280">
     
-8. Attach the second filter holder piece on top.
+8. Attach the second filter holder piece on top.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step8.jpg" height="140" width="280">
     
-9. Insert the filter holder pins into the four round pegs in the corner.
+9. Insert the filter holder pins into the four round pegs in the corner.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step9.jpg" height="140" width="280">
 
-10. Place filter side clamps on the sides of the filter to ensure that the filter holders are holding the filters tightly.
+10. Place filter side clamps on the sides of the filter to ensure that the filter holders are holding the filters tightly.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step10.jpg" height="140" width="280">
 
-11. Attach the filter bottom to the snorkel tube using the provided slots.
+11. Attach the filter bottom to the snorkel tube using the provided slots.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step11.jpg" height="140" width="280">
     
-12. Place connector block plug on the front of the filter connecting it to the snorkel tube.
+12. Place connector block plug on the front of the filter connecting it to the snorkel tube.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step12.jpg" height="140" width="280">
     
-13. Attach the snorkel tube to the snorkel mask.
+13. Attach the snorkel tube to the snorkel mask.<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step13.jpg" height="140" width="280">
 
-14. FIN!
+14. FIN!<br />
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step14.jpg" height="140" width="280">
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step15.jpg" height="140" width="280">
     <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step16.jpg" height="140" width="280">
