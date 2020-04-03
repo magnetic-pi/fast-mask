@@ -25,8 +25,8 @@ Resulting in this:<br />
 #### Parts to Purchase
 The F.A.S.T Mask is built around the following products:
 
-1. Snorkel Mask ([Amazon Link](https://www.amazon.com/gp/product/B079FL6W4C/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1))
-2. PM2.5 Activated Carbon Filter ([Amazon Link](https://www.amazon.com/gp/product/B086634MWS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1))
+1. Snorkel Mask ([Amazon Link](https://www.amazon.com/Knit-Outdoor-Panoramic-Anti-Fog-Anti-Leak/dp/B079FL6W4C))
+2. PM2.5 Activated Carbon Filter ([Amazon Link](https://www.amazon.com/gp/product/B086634MWS))
 3. N95 or P95 Mask. (Currently out everywhere!)
 
 If requested, adapter parts will be provided for other masks.
