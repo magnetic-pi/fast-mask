@@ -4,13 +4,10 @@
 These directions assume that filter (N95, P95, PM2.5) masks will need to be altered to fit in the filter holders correctly. Ideally 3M or some other manufactures would be able create a flat filter much like the PM2.5 filter [here](https://www.amazon.com/Filters-Replacement-Running-Cycling-Activities/dp/B086GS2NBW/ref=sr_1_6?crid=T60BPNRLF9CD&dchild=1&keywords=pm2.5+mask+replacement+filters&qid=1585763601&sprefix=pm2.5+mask+replacement+%2Caps%2C211&sr=8-6) so that cutting a filter masks would no longer be required. The steps outlined in this document will guide users through the process for altering a N95 mask so that it will work with the F.A.S.T appliance.
 
 ### Requirements
-1. Snorkel Mask ([Amazon Link](https://www.amazon.com/gp/product/B079FL6W4C/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1))
-
-3. PM2.5 Activated Carbon Filter ([Amazon Link](https://www.amazon.com/gp/product/B086634MWS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1))
-
-4. N95 or P95 Mask. (Currently out everywhere!)
-
-5. All parts have been printed from [stl-files/universal-filter-mask-stl-files/](https://github.com/magnetic-pi/fast-mask/tree/master/stl-files/universal-filter-mask-stl-files) directory:
+1. Snorkel Mask ([Amazon Link](https://www.amazon.com/Knit-Outdoor-Panoramic-Anti-Fog-Anti-Leak/dp/B079FL6W4C))
+2. PM2.5 Activated Carbon Filter ([Amazon Link](https://www.amazon.com/gp/product/B086634MWS))
+3. N95 or P95 Mask. (Currently out everywhere!)
+4. All parts have been printed from [stl-files/universal-filter-mask-stl-files/](https://github.com/magnetic-pi/fast-mask/tree/master/stl-files/universal-filter-mask-stl-files) directory:
 
     * Modified Snorkel tube attachment. (Print 1)
     * Filter Holders. (Print 2)
