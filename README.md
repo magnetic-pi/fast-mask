@@ -1,5 +1,8 @@
 # F.A.S.T Mask
 
+Filter Adapted Snorkel Tube (F.A.S.T) Mask <br />
+        <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step16.jpg" height="280" width="560">
+
 #### Objective
 
 The **Filter Adapted Snorkel Tube** (F.A.S.T) Mask is an attempt to help ease the burden facing medical staff around the world due to the shortage of face shields, eye protection, and N95 masks. The goal of this project was to find easy to obtain parts and modify them to provide a cheap reusable (PPE) mask solution.
@@ -18,29 +21,8 @@ This project is dedicated to [Dr. Usama Riaz](https://old.reddit.com/r/HumansBei
 5. Reusability.
 6. Parts must be easily acquirable globally.
 7. Provide a consistent seal between the filter and filter holder.
-
-Resulting in this:<br />
-        <img src="https://raw.githubusercontent.com/magnetic-pi/fast-mask/master/stl-files/images/step16.jpg" height="280" width="560">
     
-#### Parts to Purchase
-The F.A.S.T Mask is built around the following products:
-
-1. Snorkel Mask ([Amazon Link](https://www.amazon.com/Knit-Outdoor-Panoramic-Anti-Fog-Anti-Leak/dp/B079FL6W4C))
-2. PM2.5 Activated Carbon Filter ([Amazon Link](https://www.amazon.com/gp/product/B086634MWS))
-3. N95 or P95 Mask. (Currently out everywhere!)
-
-If requested, adapter parts will be provided for other masks.
-
-#### Parts to Print
-The following parts for printing can be found in the [stl-files/universal-filter-mask-stl-files/](https://github.com/magnetic-pi/fast-mask/tree/master/stl-files/universal-filter-mask-stl-files) directory:
-
-1. Modified Snorkel tube attachment. (Print 1)
-2. Filter Holders. (Print 2)
-3. Bottom Filter Holder. (Print 1)
-4. Connector Pegs. (Print 2)
-5. Connector Block Peg. (Print 1)
-
-#### Construction
+#### Build Steps
 The build steps can be found in: [stl-files/INSTRUCTIONS.md](https://github.com/magnetic-pi/fast-mask/blob/master/stl-files/INSTRUCTIONS.md).
 
 #### Licensing
