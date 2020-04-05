@@ -27,13 +27,20 @@ module filter_holder_bottom(filter_holder_top_x, filter_holder_top_y, filter_hol
         translate([0,0,filter_holder_top_z-1])
         cube([filter_holder_top_x-5, filter_holder_top_y-5, filter_holder_top_z+1], center=true);
         
-        // This is the PINK cutout so that the snorkel attachment can connect to the YELLOW base layer.
-        // use <snorkel-tube-attachment.scad>
+        // This is the PINK cutout so that the snorkel attachment can connect to the YELLOW base layer for the snorkel attacnment.
         color("pink")
-        rotate([90,90,0])
-        translate([20, -10, -15])
-        snorkel_tube_outer_wall(snorkel_diameter=20, snorkel_tube_height=150, snorkel_tube_radius=20);
+        translate([0, 0, 0])
+        cube([41, 131, 12], center=true);
+
     }
+    
+    // Bottom square to make a tighter fit to the tube.
+    color("white")
+    translate([0, 0, -4])
+    difference(){
+        cube([41.4, filter_holder_top_y, 2], center=true);
+        cube([40, filter_holder_top_y-9.1, 5], center=true);
+    }    
     
     // This section is for generating the BLUE pegs. Color defined in connector_pegs.scad file.
     // use <connector-pegs.scad>
